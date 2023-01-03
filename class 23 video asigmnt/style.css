@@ -1,0 +1,21 @@
+
+.flex-content{
+    width: 700px;
+    height: 600px;
+    border: 1px solid red;
+    display:flex ;
+    flex-direction: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.flex-item{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    border: 1px solid #eeb0b0;
+    width: 100px;
+}
